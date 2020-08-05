@@ -24,3 +24,4 @@ Note that **services like NAT Gateways are paid, so once you have tested your pr
 ```
 terraform destroy --auto-approve
 ```
+To know more about the codes and the project as a whole, please visit this link - https://medium.com/@akshayavb99/hosting-wordpress-and-mariadb-using-aws-cafff7e1646?source=friends_link&sk=089549be705ab48965da1bdb2765247b
